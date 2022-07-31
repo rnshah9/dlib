@@ -2,4 +2,4 @@ project: dlib
 target: file-to-code-ex
 
 cmds:
-  - cmd: /repo/examples/build/file_to_code_ex @@
+  - cmd: /file_to_code_ex @@
